@@ -289,7 +289,7 @@
                                 base: "/",
                                 env: {
                                     type: "production",
-                                    baseUrl: "https://helixes.co",
+                                    baseUrl: "https://jakichen.github.io/helixes-simple/",
                                     baseDir: "/",
                                     assetsDir: "https://helixes.s3.amazonaws.com/web/assets",
                                     wpBaseUrl: "https://wp.helixes.co",
