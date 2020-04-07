@@ -1,0 +1,22 @@
+{
+    "name"             : "Helixes",
+    "short_name"       : "Helixes",
+    "description"      : "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。",
+    "start_url"        : "/",
+    "display"          : "standalone",
+    "orientation"      : "portrait",
+    "background_color" : "#FF4E50",
+    "theme_color"      : "#FF4E50",
+    "icons": [
+        {
+            "src": "/assets/img/common/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/common/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
