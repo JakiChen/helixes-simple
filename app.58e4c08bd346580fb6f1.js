@@ -74,7 +74,7 @@
             },
             w = !1,
             x = !1,
-            y = "https://helixes.co",
+            y = "https://jakichen.github.io/helixes-simple/",
             k = {
                 moduleName: "i18n",
                 syncLocale: !1,
@@ -2471,7 +2471,7 @@
                 data: function() {
                     return {
                         type: "production",
-                        baseUrl: "https://helixes.co",
+                        baseUrl: "https://jakichen.github.io/helixes-simple/",
                         isLoading: !0,
                         isLoaded: !1,
                         isLaw: !0,
@@ -4437,7 +4437,7 @@
                     }, {
                         hid: "og:url",
                         property: "og:url",
-                        content: "https://helixes.co"
+                        content: "https://jakichen.github.io/helixes-simple/"
                     }, {
                         hid: "itemprop:name",
                         itemprop: "name",
@@ -4469,44 +4469,44 @@
                         href: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/apple-touch-icon.png"
                     }, {
                         rel: "manifest",
-                        href: "https://helixes.co/assets/img/common/icons/manifest.json"
+                        href: "https://jakichen.github.io/helixes-simple/assets/img/common/icons/manifest.json"
                     }, {
                         rel: "mask-icon",
                         color: "#FF4E50",
                         href: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/safari-pinned-tab.svg"
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-nova/HKNova-Regular.woff2",
+                        href: "https://jakichen.github.io/helixes-simple/assets/fonts/hk-nova/HKNova-Regular.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-nova/HKNova-Medium.woff2",
+                        href: "https://jakichen.github.io/helixes-simple/assets/fonts/hk-nova/HKNova-Medium.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-nova/HKNova-Bold.woff2",
+                        href: "https://jakichen.github.io/helixes-simple/assets/fonts/hk-nova/HKNova-Bold.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-grotesk-pro/HKGroteskPro-Regular.woff2",
+                        href: "https://jakichen.github.io/helixes-simple/assets/fonts/hk-grotesk-pro/HKGroteskPro-Regular.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-grotesk-pro/HKGroteskPro-Medium.woff2",
+                        href: "https://jakichen.github.io/helixes-simple/assets/fonts/hk-grotesk-pro/HKGroteskPro-Medium.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-grotesk-pro/HKGroteskPro-Bold.woff2",
+                        href: "https://jakichen.github.io/helixes-simple/assets/fonts/hk-grotesk-pro/HKGroteskPro-Bold.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
